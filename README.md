@@ -1,3 +1,4 @@
 # TreePeople_SoilProject
 Apply layer symbology from a layer file to multiple layers at once. It can be customized using a personal layer file with a symbology of interest.
 Note: The layer symbology may populate less transparent than what is required for the TreePeople Soil Project, attempt to use both scripts.
+![alt text]([http://url/to/img.png](https://ucdb5eca1a742c39ef849d053ae1.previews.dropboxusercontent.com/p/thumb/ACXjjr4vn3l6Q4-okMxif4Ii3K0AOUNVTuNQLvKrmr1bYV9C9hK2M-L5kMyKQohwqxPB8txsuj5q525WgE-xEx7WTvTxYVLX0-9daVG_iDGz8j6veFMfeaaWcW_16_OT_ofb0eqRllad0WkMKv3jrpERTcZoRPnBObmr6rYVIlxDPztPLcfSt4G_-K3u9l94XWpDhzue0A388pzo21Wk1WfXM4ANuUwHcHCgDqC7Ilkel_m89VudkQeaZlRCt6gac6YzhoiccEpdrbDGgP8NVxFR3ofpk0DYw1ExYzkzRxplRommHJHgH0pkacxiqqFLUf8Pe5td3-_96ki4Lbw7v8bhan4aLZtKgqVNR0BQiDkk2RzhEr260lX4YfNdMr9eJmAWiKMm00oQOk3CVoTg3-FM/p.jpeg))
